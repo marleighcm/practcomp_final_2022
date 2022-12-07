@@ -1,0 +1,6 @@
+---
+title: "Practcomp_final_2022"
+output: html_notebook
+---
+
+

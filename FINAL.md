@@ -1,2 +1,0 @@
-# Final Presentation
-## Marleigh Meadows
